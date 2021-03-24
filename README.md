@@ -6,4 +6,4 @@
 2. Tutorials
 * [Learn & Understand JavaScript’s Reduce Function](https://codeburst.io/learn-understand-javascripts-reduce-function-b2b0406efbdc)
 * [Javascript's three dots ( ... ): Spread vs rest operators](https://scotch.io/bar-talk/javascripts-three-dots-spread-vs-rest-operators543)
-* 
+* [Reuse patterns tutorial by FreeCodeCamp](https://forum.freecodecamp.org/t/freecodecamp-challenge-guide-reuse-patterns-using-capture-groups/301364)
