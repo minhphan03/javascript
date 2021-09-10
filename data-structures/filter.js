@@ -1,3 +1,5 @@
+//filter out a certain element in a nested array
+
 function filteredArray(arr, elem) {
   let newArr = [];
   for (let i = 0 ; i< arr.length; i++)
