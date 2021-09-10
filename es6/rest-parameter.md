@@ -5,7 +5,7 @@ const sum = (...args) => {
 }
 ```
 
-The reduce function of the args accept normally two variable: the callback and the initial value (on the example above)
+The reduce function of the args accept normally two variables: the callback and the initial value (on the example above)
 
 (a,b) => a + b is the callback value. The accumulator, a, is set to the initial value 0. b is the value variable, and the accumulator will start adding values and looping
 until the array ends.
